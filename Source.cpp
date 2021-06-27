@@ -18,7 +18,7 @@ int big(int a, int b, int c) {
 int main() {
 	setlocale(LC_ALL, "ru");
 	int a, b, c;
-	cout << "Ââåäèòå ÷èñëà ÷åğåç ïğîáåë: ";
+	cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ‡Ğ¸ÑĞ»Ğ° Ñ‡ĞµÑ€ĞµĞ· Ğ¿Ñ€Ğ¾Ğ±ĞµĞ»: ";
 	cin >> a >> b >> c;
 	cout << big(a, b, c) << endl;
 
